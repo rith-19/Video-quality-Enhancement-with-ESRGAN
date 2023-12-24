@@ -8,7 +8,7 @@ Step 2: Import the necessary modules by running the first code block.
 
 Step 3: Run the second code block to upload the input video manually into the notebook.
 
-Step 4: Run the third code block to prepares and execute an FFmpeg command to extract frames from the input video and provide feedback about the extraction process.
+Step 4: Run the third code block to prepare and execute an FFmpeg command to extract frames from the input video and provide feedback about the extraction process.
 
 Step 5: The fouth code block  is responsible for running ESRGAN (Enhanced Super-Resolution Generative Adversarial Network) on the extracted frames from the previous step to enhance the quality of the extracted frames using a specified model and options. The enhanced frames will be used to recreate the video.
 
