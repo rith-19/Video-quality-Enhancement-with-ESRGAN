@@ -37,3 +37,9 @@ basicsr
 facexlib
 gfpgan
 
+**Evaluation of model:**
+The model can be evaluated by calculating,
+
+PSNR (Peak Signal-to-Noise Ratio): Measures the quality of the enhanced images by comparing them with the original ones. Higher PSNR values indicate better quality.
+
+SSIM (Structural Similarity Index): Evaluates the similarity between the enhanced and original images. Values close to 1 indicate better similarity
